@@ -1,0 +1,95 @@
+* { 
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) { /* STYLES GO HERE */}
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) { /* STYLES GO HERE */}
+
+#wrapper {
+
+	width: 900px;
+	margin: auto;
+	
+}
+
+
+#header {
+
+	display: inline;
+	text-align: right;
+	height: 10px;
+	
+}
+
+#header img {
+
+	vertical-align: left;
+}
+
+
+#main_content {
+	
+	border-style: solid;
+	border-color: lightgrey;
+
+
+}
+
+
+#best_extension img{
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+
+#left_content ul{
+
+	display: block;
+	text-align: left;
+	list-style: none;
+	
+
+}
+
+
+
+#right_content {
+	
+	display: block;
+	font-size:small;
+	text-align:justify;
+	margin-right: auto;
+	margin-left: auto; 
+	padding: 5px;
+
+    
+}
+
+
+#right_content img { 
+
+vertical-align: right;
+
+
+}
+
+
+#footer {
+
+ margin-left: 10px;
+ padding: 10px;
+ text-align: left;
+
+
+}
+
+
+#footer ul{
+
+	display: inline-block;
+	list-style: none;
+}
